@@ -17,7 +17,6 @@ References:
     paths:
       - 'labs/**'
 ```
- Note: the code above will trigger actions whenever there is a change in the labs directory
 3. Commit the workflow changes into the `main` branch
 4. Change a file inside the folder [labs](/labs)
 5. Commit the changes into the `main` branch
